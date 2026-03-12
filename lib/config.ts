@@ -69,7 +69,7 @@ export const siteConfig = {
   seo: {
     title: "laschebest - Full Stack Developer",
     description: "Software Student & Full Stack Developer.",
-    url: "https://laschebest.vercel.app",
+    url: "https://lasche.vercel.app",
     ogImage: "https://lasche.vercel.app/l-logo.png",
   },
 } as const;
