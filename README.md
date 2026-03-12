@@ -36,8 +36,6 @@ Canlı hali:
 ## ✦ Preview
 
 <div align="center">
-
-### Light Mode
 <img src="https://i.imgur.com/bAabAaq.png" alt="Light Preview" width="90%" />
 
 </div>
