@@ -47,7 +47,9 @@ export const metadata: Metadata = {
     description: siteConfig.seo.description,
   },
   icons: {
-    icon: "https://lasche.vercel.app/favicon.ico",
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
   },
 };
 
