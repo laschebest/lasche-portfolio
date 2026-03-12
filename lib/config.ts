@@ -70,7 +70,7 @@ export const siteConfig = {
     title: "laschebest - Full Stack Developer",
     description: "Software Student & Full Stack Developer.",
     url: "https://laschebest.vercel.app",
-    ogImage: "/l-logo.png",
+    ogImage: "https://lasche.vercel.app/l-logo.png",
   },
 } as const;
 
